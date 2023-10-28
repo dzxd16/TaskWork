@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.users_container{
+    width: 50%;
+    justify-content: center;
+    margin: auto;
+  
+}
+
+.p {
+   
+    padding: 10px 10px 10px;
+ 
+}
+
+h5{
+ 
+    text-align: center;
+    background-color: aqua;
+   
+}
