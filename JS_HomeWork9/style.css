@@ -1,0 +1,28 @@
+.red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.pink {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+.grey {
+    width: 150px;
+    height: 150px;
+    background-color: grey;
+}
+
+.greynew {
+    width: 170px;
+    height: 170px;
+}
